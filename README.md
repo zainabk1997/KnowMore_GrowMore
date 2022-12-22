@@ -137,5 +137,3 @@ For troubleshooting, contact on this email - khokawala.z@northeastern.edu
 
 ## Credits
 Name - Zainab Khokawala NUID - 002750435 <br>
-Name - Drashti Bhingradiya - 002774273 <br>
-Name - Hinal Patel - 002738956 <br>
